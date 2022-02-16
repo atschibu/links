@@ -1,2 +1,2 @@
 https://pbxbook.com/other/dd_clone.html
-https://pbxbook.com/other/cpdcubun.html
+https://pbxbook.com/other/cpdcubun.html -> To make a bootable USB Flash Drive, the ISO file must be converted to a DMG disk image, this can be done with hdiutil convert
