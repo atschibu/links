@@ -2,5 +2,4 @@ https://pbxbook.com/other/dd_clone.html
 https://pbxbook.com/other/cpdcubun.html -> To make a bootable USB Flash Drive, the ISO file must be converted to a DMG disk image, this can be done with hdiutil convert
 https://apple.stackexchange.com/questions/153942/make-and-create-live-usb-linux-for-mac-how
 https://linux-voodoo.de/2017/06/macos-command-line-diskutil/
-There's a tool that changes the behavior of holding the option key down while booting, it's called rEFIt, and allows to select between Linux and MacOS.
-http://refit.sourceforge.net/
+<https://www.nerd-supreme.de/2014/04/29/apple-macbook-problem-akku-laedt-nicht-beheben/> wenn Akku nicht lädt, weil er tief entladen war
